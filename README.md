@@ -20,6 +20,7 @@ Ce projet déploie une application web qui affiche une liste de films à partir 
 1. **Création des ressources Azure** :
    - Créer un groupe de ressources.
    - Configurer la base de données SQL pour stocker les films.
+   - Créer une compte de stockage pour stocker des images de film.
    - Créer un registre de conteneurs pour héberger l'image Docker de l'application.
    - Déployer l'application web via Azure App Service.
 
